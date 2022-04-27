@@ -1,4 +1,4 @@
-%% Program to plot fouriers seriers (individually)
+%% Program to plot fouriers series (individually)
 
 
 x = -pi:0.1:pi;
